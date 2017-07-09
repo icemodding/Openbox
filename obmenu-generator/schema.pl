@@ -34,6 +34,7 @@ our $SCHEMA = [
     {item => ['gnome-terminal',     'Terminal',     'utilities-terminal']},
     {item => ['xdg-open http://', 'Web Browser',  'web-browser']},
     #{item => ['gmrun',            'Run command',  'system-run']},
+    {sep       => undef},
 
     {sep => 'Categories'},
 
