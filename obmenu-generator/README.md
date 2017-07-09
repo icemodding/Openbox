@@ -42,6 +42,7 @@ obmenu-generator -p -c
 - Agregué en la categoría Exit, aparte la clásica de Exit (para salir de Openbox), dos más que son Reboot y Shutdown, que ya saben para que son.
 - Comenté el ítem de gmrun ya que no lo uso.
 - En config.pl modifique el editor a Sublime-Text-3 que es mi preferido en las X y para la tty uso nano.
+- También agregué la aplicación (instalada desde yaourt) obbrowser para visualizar los directorios/archivos de mi home.
 
 Quedando como resultado:
 
