@@ -47,4 +47,4 @@ compton --config /home/ice/.config/compton.conf &
 # plank &
 
 # Conky
-conky -c /home/ice/Linux/Conky/Harmattan/.harmattan-themes/Numix/God-Mode/normal-mode/.conkyrc
+conky -c /home/ice/Linux/Conky/Harmattan/.harmattan-themes/Numix/God-Mode/normal-mode/.conkyrc &
