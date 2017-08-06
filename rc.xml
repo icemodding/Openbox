@@ -264,7 +264,7 @@
     </keybind>
     <keybind key="C-A-T">
       <action name="Execute">
-        <command>gnome-terminal</command>
+        <command>termite</command>
       </action>
     </keybind>
     <keybind key="C-A-Retroceso">
@@ -278,6 +278,16 @@
     <keybind key="C-Print">
       <action name="Execute">
         <command>gnome-screenshot -i</command>
+      </action>
+    </keybind>
+    <keybind key="C-A-E">
+      <action name="Execute">
+        <command>thunar</command>
+      </action>
+    </keybind>
+    <keybind key="C-A-V">
+      <action name="Execute">
+        <command>vlc</command>
       </action>
     </keybind>
   </keyboard>
