@@ -308,11 +308,6 @@
 					<execute>termite</execute>
 				</action>
 			</item>
-			<item label="Tilda">
-				<action name="Execute">
-					<execute>tilda</execute>
-				</action>
-			</item>
 		</menu>
 		<menu id="37" label="System">
 			<menu id="36" label="Settings">
