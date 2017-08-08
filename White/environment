@@ -1,0 +1,4 @@
+LANG=es_AR.UTF8
+
+setxkbmap -layout latam
+a
