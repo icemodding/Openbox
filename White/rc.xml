@@ -283,6 +283,16 @@
         <command>thunar</command>
       </action>
     </keybind>
+    <keybind key="XF86MonBrightnessDown">
+      <action name="Execute">
+        <command>xbacklight -dec 25</command>
+      </action>
+    </keybind>
+    <keybind key="XF86MonBrightnessUp">
+      <action name="Execute">
+        <command>xbacklight -inc 25</command>
+      </action>
+    </keybind>
   </keyboard>
   <mouse>
     <dragThreshold>5</dragThreshold>
