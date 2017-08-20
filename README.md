@@ -18,3 +18,5 @@ Comencé editando lo siguiente:
 Quedando como resultado:
 
 ![texto cualquiera por si no carga la imagen](https://linuxforallsite.files.wordpress.com/2016/11/90708-openbox.jpg)
+
+![texto cualquiera por si no carga la imagen](http://i.imgur.com/vplxKSa.png)
