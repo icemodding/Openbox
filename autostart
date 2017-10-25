@@ -12,11 +12,16 @@
 #  gnome-settings-daemon &
 #fi
 
+# If you want to use XFCE config tools...
+#
+#xfce-mcs-manager &
+
 # teclado numérico
 numlockx &
 
 # fondo de pantalla
-nitrogen --restore &
+#nitrogen --restore &
+feh --bg-scale ~/Picturz/Wallpapers/by\ ice/devilmaycry-wp-arch.png
 
 # touchpad para desplazamiento horizontal
 synclient HorizTwoFingerScroll=1 &
@@ -38,6 +43,9 @@ nm-applet &
 # compton -cCGfF -r 9 -o 0.75 -l -14 -t -14 -I 0.028 -O 0.03 -D 3 -i 0.5 &
 # compton -r 12.0 -o 0.75 -l -15.0 -t -15.0 -I 0.028 -O 0.03 -D 3 -c -f -C -F -G &
 compton --config /home/ice/.config/compton.conf &
+
+# plank
+# plank &
 
 # Conky
 conky -c /home/ice/Linux/Conky/Harmattan/.harmattan-themes/Numix/God-Mode/normal-mode/.conkyrc &
