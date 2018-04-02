@@ -70,7 +70,7 @@
 		<menu id="2" label="Editors">
 			<item label="Sublime Text 3 Dev">
 				<action name="Execute">
-					<execute>subl3</execute>
+					<execute>subl</execute>
 				</action>
 			</item>
 			<item label="Nano">

@@ -21,7 +21,8 @@ numlockx &
 
 # fondo de pantalla
 #nitrogen --restore &
-feh --bg-scale ~/Picturz/Wallpapers/by\ ice/devilmaycry-wp-arch.png
+#feh --bg-scale ~/Picturz/Wallpapers/by\ ice/devilmaycry-wp-arch.png
+feh --bg-scale ~/Picturz/Wallpapers/Archlinux/archlinux_wallpaper_v2_by_tmle.png
 
 # touchpad para desplazamiento horizontal
 synclient HorizTwoFingerScroll=1 &
